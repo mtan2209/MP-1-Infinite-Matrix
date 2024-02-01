@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Score.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/october-pail1.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/october-pail.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/HealthPackTexture.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Bullet.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/blinn2.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/blinn3.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/blinn4.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/lambert3.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/lambert4.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/phong1.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/RATON_MODEL_3D.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Score1.uasset",
+				"C:/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HighScore.uasset"
+			]
+		}
+	]
+}
